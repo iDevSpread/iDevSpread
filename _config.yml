@@ -1,8 +1,9 @@
 title: Feynman_W
 subtitle: Personal Site 
 description: Welcome ~
-permalink: /blog/:year/:month/:day/:title
-
+permalink: /:year/:month/:title/
+avatarTitle: Feynman_W
+avatarDesc: iOS / Deep Learning
 
 
 
