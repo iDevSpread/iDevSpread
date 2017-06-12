@@ -9,4 +9,5 @@ This reposity is used to share my learning and reading knowledge, espicially abo
  ## Goals to Finish
  1. Upload all blogs of book reviews to the GitHub Pages. 
  2. Read more iOS reading materials. 
+ 3. Upload the current side project into App Store.
 
