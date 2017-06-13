@@ -3,14 +3,14 @@ layout: page
 title: About me 
 ---
 
-an iOS developer, currently building up a side project about productivity.
+An iOS developer, currently building up a side project about productivity.
 <p>
-a reading lover, especially about software, psychology, cognitive science.
+A reading lover, especially about software, psychology, cognitive science.
 <p>
-know a little about front-end, JavaScript.
+Know a little about front-end, JavaScript.
 
 <p>
-currently learning badminton 
+Currently learning badminton 
 
 <p>
 
