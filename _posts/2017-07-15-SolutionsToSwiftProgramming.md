@@ -45,3 +45,37 @@ let second = Rank.ten
 hasSameRank(first: first, second: second)
 
 ```
+
+> Add a color() method to Suit that returns "black" for spades and clubs, and returns "red" for hearts and diamonds. 
+
+```Swift
+enum Suit {
+	case spades, hearts, diamonds, clubs
+	func simpleDescription() -> String {
+		switch self {
+		case .spades:
+			return "spades"
+		case .hearts:
+			return "hearts"
+		case .diamonds:
+			return "diamonds"
+		case .clubs:
+			return "clubs"
+		}
+	}
+	func color() -> String {
+		switch self {
+		case .spades, .clubs:
+			return "black"
+		case .diamonds, .hearts:
+			return "red"
+		}
+	}
+}
+
+let hearts = Suit.hearts
+let heartsDescription = hearts.simpleDescription()
+hearts.color()
+
+
+```
