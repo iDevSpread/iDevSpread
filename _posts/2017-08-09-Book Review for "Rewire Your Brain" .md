@@ -1,4 +1,6 @@
 ## How to Improve Your Brain
+![Book Contents](/images/posts/BookReview/image3.png)
+
 1.  To rewire our brain, it is important to challenge ourselves to change our behaviour and then stay with it. 为了重新编译我们大脑，我们需要不断挑战自己来改变自己的行为然后坚持下去。
 2.  The steps to rewire our brain stand for *Focus, Effort, Effortlessness, Determination.* 改变我们大脑意味着专注、努力、毫不费力、确定。
 3. If you're troubled by anxiety, it's best to do expose yourself gradually to what makes you anxious. 如果感到焦虑，那么试着把自己放在让自己焦虑的事情前面。
