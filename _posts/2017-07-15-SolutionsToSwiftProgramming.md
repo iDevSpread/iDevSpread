@@ -77,5 +77,30 @@ let hearts = Suit.hearts
 let heartsDescription = hearts.simpleDescription()
 hearts.color()
 
+```
+
+
+> Add a third case to ServerResponse and to the switch
+```Swift
+enum ServerResponse {
+	case result(String, String)
+	case failure(String)
+	case weather(String)
+}
+
+let success = ServerResponse.result("6:00 am", "8:09 pm")
+let failure = ServerResponse.failure("out of cheese")
+let weather = ServerResponse.weather("Good")
+switch weather {
+case let .result(sunrise, sunset):
+	print("Sunrize is at \(sunrise) and sunset is at \(sunset)")
+case let .failure(message):
+	print("Failure... \(message)")
+case let .weather(report):
+	print("The weather is \(report)")
+}
+
 
 ```
+
+
