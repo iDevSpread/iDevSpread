@@ -10,7 +10,7 @@ A reading lover, especially about software, psychology, cognitive science.
 Know a little about front-end, JavaScript.
 
 <p>
-Currently learning badminton 
+Currently learning badminton.
 
 <p>
 
@@ -18,7 +18,7 @@ In this blog, I want to share all my personal learning experiences and life.
 
 <p>
 
-Happy life, Happy codeing!
+Happy life, Happy coding!
 
 <p> 
 
