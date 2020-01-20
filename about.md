@@ -3,7 +3,7 @@ layout: page
 title: About me 
 ---
 
-An iOS developer, currently building up a side project about productivity.
+An iOS developer, currently learning Python.
 <p>
 A reading lover, especially about software, psychology, cognitive science.
 <p>
