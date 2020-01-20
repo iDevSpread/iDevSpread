@@ -1,6 +1,6 @@
 title: Feynman Wang
 subtitle: Personal Site 
-description: Welcome ~
+description: Never Stop Learning
 
 avatarTitle: Feynman_W
 avatarDesc: iOS / Deep Learning
@@ -67,3 +67,6 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
+
+#Make LaTex math work
+use_math: true
