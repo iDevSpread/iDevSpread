@@ -1,25 +1,30 @@
 title: Feynman Wang
+<<<<<<< HEAD
 subtitle: Personal Site 
 description: Never Stop Learning
+=======
+subtitle: To be a Good Coach in Teaching Computer and English 
+description: Welcome ~
+>>>>>>> 03322213816d35045f9d8f08c78865789eb6d455
 
 avatarTitle: Feynman_W
-avatarDesc: iOS / Deep Learning
+avatarDesc: Python Learning
 
 
 
 
 # Comment
 comment:
-    # disqus: leopard
-    # duoshuo: leopard 
-    # cloudTie: leopard
+    # disqus: Mr. Wang
+    # duoshuo: Mr. Wang 
+    # cloudTie: Mr. Wang
 
 # Social
 social:
-    weibo: 1646746011 
+    weibo: 6505890086 
     github: idevspread
     #twitter: @iDevSpreading
-    mail: idevspreading@gmail.com
+    mail: wingo0527@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
